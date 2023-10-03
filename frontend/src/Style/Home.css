@@ -1,0 +1,24 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    justify-content: center;
+}
+.create {
+    margin-left: 23%!important;
+}
+.container {
+    width: 35%;
+    margin-left: 35%;
+}
+.contact {
+    display: flex;
+    font-size: 15px;
+    flex-direction: column;
+    gap: 7px;
+}
+input {
+    height: 38px;
+    border-radius: 6px;
+    font-size: 16px;  
+}
